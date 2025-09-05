@@ -2,7 +2,8 @@
 
 
 This repository contains the code and resources used for TAGAL.
-All of TAGAL source code, datasets, log files, and other resources will be made public on GitHub after the double-blind reviewing phase.
+
+Paper is available on ArXiv: [https://arxiv.org/abs/2509.04152](https://arxiv.org/abs/2509.04152) (accepted at [SynDAiTE](https://aiimlab.org/events/ECML_PKDD_2025_SynDAiTE_Synthetic_Data_for_AI_Trustworthiness_and_Evolution.html), ECML PKDD 2025 Workshop) 
 
 
 ## Folders and files
